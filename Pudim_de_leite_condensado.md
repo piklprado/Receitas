@@ -41,9 +41,9 @@ Preparo
 
 **Pudim**
 
-1.  Bata todos os ingredientes no liquidificador.
+1.  Passe calda por todo o interior de uma forma de pudim.
 
-2.  Passe calda por todo o interior de uma forma de pudim.
+2.  Bata todos o leite condensado, o leite, os ovos e as gemas no liquidificador.
 
 3.  Despeje a mistura batida na forma.
 
