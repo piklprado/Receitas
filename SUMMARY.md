@@ -6,12 +6,15 @@
   * [Bolo de sementes de papoula](bolo_papoula.md)
   * [Chocolate chips cookie](cookies.md)
   * [Financiers](financiers.md)
+  * [Pastiera di grano](pastiera.md)
+  * [Pudim de leite condensado](Pudim_de_leite_condensado.md)
+  * [Torta Santiago](torta_santiago.md)
+  * [Tortitas de aceite](tortitas.md)
 * [Salgados](salgados.md)
+  * [Grão de bico indiano](grao_de_bico_com_coco.md)
   * [Pão de queijo](Pao_de_queijo.md)
   * [Patê de cebolas caramelizadas](pate_cebola.md)
-  * [Pudim de leite condensado](Pudim_de_leite_condensado.md)
   * [Torta de presunto](torta_de_presunto.md)
-  * [Torta Santiago](torta_santiago.md)
   * [Tortilla](tortilla.md)
-  * [Tortitas de aceite](tortitas.md)
+
 
