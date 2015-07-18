@@ -41,12 +41,11 @@ Preparo
 
 **Pudim**
 
-1.  Passe calda por todo o interior de uma forma de pudim.![](figs/caramelizando.png)
+1.  Passe calda por todo o interior de uma forma de pudim.
 
 2.  Bata o leite condensado, o leite, os ovos e as gemas no liquidificador.
 
 3.  Despeje a mistura batida na forma.
-![](figs/naforma.png) ![](figs/cozinhando.png)
 
 4.  Leve a forma a banho maria até que o pudim esteja cozido e
     sólido (30-40 min no fogão a fogo baixo).
@@ -59,6 +58,10 @@ Preparo
 
 7.  Passe uma faca fina pelas bordas do pudim para separá-lo da forma.
     Desenforme em uma prato grande.
+
+![](figs/caramelizando.png "Caramelizando a forma")
+
+![](figs/naforma.png "Colocando a mistura na forma") ![](figs/cozinhando.png "Cozinhando na forma")
 
 Macetes
 -------
