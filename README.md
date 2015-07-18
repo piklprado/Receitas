@@ -4,6 +4,6 @@
 > '¡Entrad, entrad! También aquí hay dioses.'
 > Ortega Y Gasset
 
-![](figs/pie.png)
+![](figs/pie.jpg)
 
 Em tempos de GitHub é aqui que vou colocar as receitas que peço e que me pedem.

@@ -37,3 +37,7 @@ dos dois lados. Quando as batatas esfriarem mergulhe-as na tigela de ovos batido
 ![](figs/servindo.png "Ahi está")
 
 
+### Variantes
+
+* Acrescente toucinho ou um bom salame espanhol, fritos juntos com a cebola.
+* Adicione salsa, cebolinha ou tomilho.
