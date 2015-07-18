@@ -18,7 +18,7 @@
 2. Junte os ovos e amasse até formar uma bola.
 3. Embrulhe em filme de pvc ou papel alumínio e deixe descansar na geladeira por pelo menos 1 hora e se possível por um dia. Antes de usá-la espre que chegue á temperatura ambiente e esteja maleável.
 4. Em outra vasilha bata bem os ovos com o creme de leite e o sal.
-5. Aqueça o forno a 220 graus C
+5. Aqueça o forno a 220°C
 6. Abra a massa em uma forma retangular de 26 x 40 cm. Deve sobrar cerca de 10% da massa.
 7. Fure o fundo da massa com um garfo e espalhe os cubinhos de presunto. Jogue a mistura de ovo e creme por cima.
 8. Abra o que restou da massa com um rolo sobre um filme plástico. Corte florezinhas ou outro tipo de decoração e disponha sobre o creme, com cuidado para não afundar.
