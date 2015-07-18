@@ -1,2 +1,0 @@
-Pao_de_queijo.tex
-Pudim_de_leite_condensado.tex
