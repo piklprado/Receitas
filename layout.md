@@ -1,2 +1,2 @@
-section_P_o_de_queijo.tex
-section_Pudim_de_leite_condensado.tex
+P_o_de_queijo.tex
+Pudim_de_leite_condensado.tex
