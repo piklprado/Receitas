@@ -13,14 +13,14 @@ Para 6 pessoas:
 
 ### Modo de prepraro
 
-1. No dia anterior limpe a peça de filé, e guarde-o na geladeira em recipiente fechado envolto nas duas cebolas picadas rodelas.
+1. No dia anterior limpe a peça de filé, e guarde-o na geladeira em recipiente fechado envolto nas duas cebolas picadas em rodelas.
 2. No dia do preparo descarte as cebolas e pique o filé em cubos de cerca de 2,5 cm de largura. Reserve.
 3. Lave bem os cogumelos. Corte os grandes na metade e deixe os pequenos inteiros.
 4. Coloque a farinha em uma tigela com tampa.
-5. Aqueça uma panela ou frigideira grande de fundo grosso. Espere até que fique bem quente.
-6. Divida os cubos de carne em 5 porções iguais. Salgue a primeira parte, coloque na tigela com a farinha, tampe e sacuda. Transfira a carne para uma peneira de cozinha e sacuda para tirar o excesso de farinha. A carne deve ficar apenas polvilhada, seca, mas sem excesso de farinha
-7. Coloque meia colher de sopa de manteiga e meia de azeite na panela e salteie a carne. Reserve. Slateie as outras quatro porções de carne da mesma maneira. Se uma casca de farinha se formar na panela raspe-a, ou queimará.
-8. Quando terminar de fritar a carne, adicione dua colheres de manteiga à panela aquecida. Espere derreter e chiar e acrescente os cogumelos. Salteie até que comecem a soltar líquido. Adicione sal e salteie por mais dois minutos. Não se preocupe se acumular líquido.
+5. Aqueça uma panela ou frigideira grande de fundo grosso, de preferência com revestimento anti-aderente. Espere até que fique bem quente.
+6. Divida os cubos de carne em 5 porções iguais. Salgue a primeira parte, coloque na tigela com a farinha, tampe e sacuda. Transfira a carne para uma peneira de cozinha de furo grande e sacuda para tirar o excesso de farinha. A carne deve ficar apenas polvilhada, seca, mas sem excesso de farinha
+7. Coloque meia colher de azeite na panela e salteie a carne. Reserve. Salteie as outras quatro porções de carne da mesma maneira. Se uma casca de farinha se formar na panela raspe-a, ou queimará.
+8. Quando terminar de fritar a carne, adicione duas colheres de manteiga à panela aquecida. Espere derreter e chiar e acrescente os cogumelos. Salteie até que comecem a soltar líquido. Adicione sal e salteie por mais dois minutos. Não se preocupe se acumular líquido.
 9. Com a panela ao fogo junte a carne frita aos cogumelos e misture bem. Adicione o creme de leite, misture e deixe ao fogo até que a carne esteja cozida e o caldo engrosse um pouco. 
 10. Acerte a quantidade de creme, verifique o sal, salpique a salsinha e sirva com arroz branco e batatas fritas.
 
