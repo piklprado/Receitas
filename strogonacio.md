@@ -26,4 +26,4 @@ Para 6 pessoas:
 
 ### Macetes
 
-* Para a carne ficar macia, ela deve fritar rápido e não perder muito líquido. Por isso é importante polvilhar com farinha e fritar em pequenas proções, em panela bem aquecida e de fundo grosso. Se estiver demorando mais que 3 minutos para a carne corar e/ou se ela soltar líquido demais é sinal de que sua panela não está quente o suficiente ou que é pequena.
+* Para a carne ficar macia, ela deve fritar rápido e não perder muito líquido. Por isso é importante polvilhar com farinha e fritar em pequenas proções, em panela bem aquecida e de fundo grosso. Se estiver demorando mais que 3 minutos para a carne corar e/ou se ela soltar líquido demais é sinal de que sua panela não está quente o suficiente ou que é pequena. Aqueça mais e reduza a quantidade de carne a saltear por vez.

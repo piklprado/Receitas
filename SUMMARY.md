@@ -4,6 +4,7 @@
 * [Doces](doces.md)
   * [Biscoitinho de castanha de caju](bisc_cast_caju.md)
   * [Bolo maluca beleza](maluca_beleza.md)
+  * [Bolo de mel](bolo_de_mel.md)
   * [Bolo de sementes de papoula](bolo_papoula.md)
   * [Chocolate chips cookie](cookies.md)
   * [Financiers](financiers.md)

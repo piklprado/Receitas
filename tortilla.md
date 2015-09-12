@@ -1,8 +1,8 @@
 ## Tortilla (Paco Prado)
 
 ### Ingredientes
-* 6 Ovos
-* 3 batatas médias
+* 250 ml de ovos (5-6 ovos)
+* 750 g de batatas (ca. 5 batatas médias)
 * Cerca de 250 ml de azeite
 * Um quarto de cebola média
 * Sal a gosto
