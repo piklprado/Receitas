@@ -1,9 +1,10 @@
 ## Chocolate chip cookies
+
 ### Ingredientes
 * 333g de farinha de trigo
 * 1 1/3 colher de chá de pó royal
 * 1 colher de chá de sal
-* 200g de manteiga
+* 200 g de manteiga
 * 115g de açúcar refinado
 * 85g de açúcar mascavo
 * 3 ovos (2,7 ovos)
