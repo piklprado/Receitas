@@ -21,6 +21,7 @@
   * [Pão de queijo](Pao_de_queijo.md)
   * [Patê de cebolas caramelizadas](pate_cebola.md)
   * [Strogonácio](strogonacio.md)
+  * [Antepasto de tomatinhos](tomatins.md)
   * [Torta de presunto](torta_de_presunto.md)
   * [Tortilla](tortilla.md)
 
