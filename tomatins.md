@@ -19,6 +19,6 @@
 7. Deixe assar por uma hora ou mais, até que esteja seco, apenas com o azeite no fundo. Os tomates estarão secos e os de cima ligeiramente gratinados.
 
 
-![](figs/tomatins1.jpg "Coloque o majericão")
-![](figs/tomatins2.jpg "Regue com azeite")
-![](figs/tomatins3.jpg "Já assados")
+![](figs/tomatins1.png "Coloque o majericão")
+![](figs/tomatins2.png "Regue com azeite")
+![](figs/tomatins3.png "Já assados")
