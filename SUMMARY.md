@@ -6,6 +6,7 @@
   * [Bolo maluca beleza](maluca_beleza.md)
   * [Bolo de mel](bolo_de_mel.md)
   * [Bolo de sementes de papoula](bolo_papoula.md)
+  * [Bolo versátil](bolo_versatil.md)
   * [Chocolate chips cookie](cookies.md)
   * [Financiers](financiers.md)
   * [Pastiera di grano](pastiera.md)
