@@ -68,10 +68,8 @@
   um pouco de sal moído fino (ou *Maldon salt*) sobre os cookies logo
   que tirá-los do forno.
   
-![](figs/cookies1.png "Forma para cookies com folha antiaderente")
-![](figs/cookies2.png "Bolinhas de massa para assar")
-![](figs/cookies3.png "Assados descansando na grade")
+![](figs/cookies1.jpg "Forma para cookies com folha antiaderente")
+![](figs/cookies2.jpg "Bolinhas de massa para assar")
+![](figs/cookies3.jpg "Assados descansando na grade")
   
-[^1]: The Best Chocolate Chip Cookies Recipe. The Food Lab -
-    Unraveling the mysteries of home cooking through science. 
-	By J. Kenji López-Alt http://www.seriouseats.com/recipes/2013/12/the-food-lab-best-chocolate-chip-cookie-recipe.html
+[^1]: The Best Chocolate Chip Cookies Recipe. The Food Lab - Unraveling the mysteries of home cooking through science. By J. Kenji López-Alt http://www.seriouseats.com/recipes/2013/12/the-food-lab-best-chocolate-chip-cookie-recipe.html
