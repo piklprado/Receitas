@@ -16,7 +16,7 @@
 ### Preparo
 1. Em uma bacia coloque a farinha e o sal e pique a manteiga. Trabalhe com as mãos até obter uma farofa.
 2. Junte os ovos e amasse até formar uma bola.
-3. Embrulhe em filme de pvc ou papel alumínio e deixe descansar na geladeira por pelo menos 1 hora e se possível por um dia. Antes de usá-la espre que chegue á temperatura ambiente e esteja maleável.
+3. Embrulhe em filme de PVC ou papel alumínio e deixe descansar na geladeira por pelo menos 1 hora e se possível por um dia. Antes de usá-la espere que chegue á temperatura ambiente e esteja maleável.
 4. Em outra vasilha bata bem os ovos com o creme de leite e o sal.
 5. Aqueça o forno a 220°C
 6. Abra a massa em uma forma retangular de 26 x 40 cm. Deve sobrar cerca de 10% da massa.

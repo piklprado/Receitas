@@ -49,7 +49,7 @@
 ###Macetes
 
 *   A receita de calda é suficiente para vários pudins. Você pode
-    fazê-la com antencedência e guardar em um vidro na geladeira.
+    fazê-la com antecedência e guardar em um vidro na geladeira.
 *   Você pode aumentar a quantidade de calda no pudim se gostar. Mas
     certifique-se que todo o interior da forma esteja revestido de calda
     antes de jogar a mistura.

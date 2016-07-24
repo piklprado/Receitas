@@ -21,7 +21,7 @@
     com as mãos até que fique homogênea e elástica.
 4.  Acrescente o queijo e trabalhe até que esteja bem incorporado
     à massa.
-5.  Acrescente os ovos e trabalhe mais, até incoporar. A massa
+5.  Acrescente os ovos e trabalhe mais, até incorporar. A massa
     ficará pegajosa.
 6.  Aqueça o forno a 200C
 7.  Unte as mãos com óleo e faça bolinhas com a massa. Coloque-as em uma
@@ -34,7 +34,7 @@
 * Polvilho de qualidade é essencial. Dos industrializados use Amafil
 ou Marinez.
 * Queijo então nem se fala! Tem que ser mineiro. E bão, uai.
-*  Ovos capiras também valorizam o pão de queijo, que ficam
+*  Ovos caipiras também valorizam o pão de queijo, que ficam
     mais amarelos.
 *   A quantidade do sal é indicativa, e depende muito do
     queijo (prove-o) e do gosto. Experimente algumas vezes que você
@@ -51,6 +51,6 @@ ou Marinez.
 *   **Uaiffle**: asse um pouco de massa na máquina de waffle. É rápido e
     pode ser recheado como um sanduíche.
 *   **Triângulo mineiro**: asse um pouco de massa em
-    saduicheira elétrica. Idem!
+    sanduicheira elétrica. Idem!
 
 

@@ -1,10 +1,10 @@
-## Molho de berigela e linguiças (Tiago Prado)
+## Molho de berinjela e linguiças (Tiago Prado)
 
 Para 0,5 kg de macarrão
 
 ### Ingredientes
 
-* 2 beringelas descascadas e cortadas em cubos (ca 2 cm de aresta)
+* 2 berinjelas descascadas e cortadas em cubos (ca 2 cm de aresta)
 * 80 ml de azeite
 * 1 lata de tomate pelado, com o líquido (400 g peso líquido)
 * 250 g de uma boa linguiça curada moída
@@ -15,8 +15,8 @@ Para 0,5 kg de macarrão
 
 ### Preparo
 
-1. Deixe a beringela em água com sal por uma hora. Escorra e esprema um pouco para tirar o excesso de água
-2. Frite a beringela no azeite até que estejam macias
+1. Deixe a berinjela em água com sal por uma hora. Escorra e esprema um pouco para tirar o excesso de água
+2. Frite a berinjela no azeite até que estejam macias
 3. Adicione a linguiça e frite-a
 4. Junte o tomate e os temperos. Tape a panela e deixe cozinhar em fogo baixo até que fique bem grosso (entre 40 e 60 min).
 5. Acerte o sal

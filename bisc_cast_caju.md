@@ -28,5 +28,5 @@
 
 ### Variantes
 
-* Substitua as castanhas de caju por nozes, nozes-pecan ou castanha do Pará.
+* Substitua as castanhas de caju por nozes, nozes-pecã ou castanha do Pará.
 * Adicione gotas ou pedaços de chocolate.

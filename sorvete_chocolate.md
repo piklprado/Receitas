@@ -14,15 +14,15 @@
 3. Bata as gemas com açúcar até que fique uma mistura clara e aerada.
 4. Continue batendo bem as gemas e despeje o leite quente aos poucos. Volte imediatamente para a panela.
 5. Leve ao fogo baixo, sem deixar ferver e misturando sempre. Continue até que engrosse (veja os macetes). Desligue o fogo.
-6. Incorpore a mistura de chocolate e misture até homogeinizar. Espere esfriar e leve à geladeira por pelo menos 3 horas.
+6. Incorpore a mistura de chocolate e misture até homogenizar. Espere esfriar e leve à geladeira por pelo menos 3 horas.
 7. Bata a mistura em uma sorveteira e guarde no freezer.
 8. Tire do freezer 10-15 min antes de servir.
 
 ### Macetes
-* A base deste sorvete é um adaptação do *crème anglaise*. Para que não talhe é preciso acrescentar o leite quente à gemas ao poucos batendo rápido e também quando retonar ao fogo misturar sempre e não aquecer demais. O creme está no ponto quando engrossa como um mingau ralo. O teste tradicional é mergulhar a colher no creme e passar o dedo no verso dela; deve ficar deixar um rastor persistente (https://www.youtube.com/watch?v=je3i_BvLO4c). 
+* A base deste sorvete é um adaptação do *crème anglaise*. Para que não talhe é preciso acrescentar o leite quente à gemas ao poucos batendo rápido e também quando retornar ao fogo misturar sempre e não aquecer demais. O creme está no ponto quando engrossa como um mingau ralo. O teste tradicional é mergulhar a colher no creme e passar o dedo no verso dela; deve ficar deixar um rastro persistente (https://www.youtube.com/watch?v=je3i_BvLO4c). 
 * Para bater em sorvete siga as instruções da sua sorveteira. 
 * Se não tem sorveteira deixe a mistura no freezer por 1-2 horas, bata o mais rápido possível para quebrar os cristais  de gelo e volte para o freezer. Repita até obter uma massa macia, sem sinais de cristais. Pode não ficar tão boa como com a sorveteira.
 
 ### Variações
-* Sorvete de café: acrescente café solúvel ao *crème anglaise*, o dobro da quantidade que estiver indicada para fazer café. Quando for bater na sorveteira acrescente os 250 g do creme de leite restante, batido em chantilly.
+* Sorvete de café: acrescente café solúvel ao *crème anglaise*, o dobro da quantidade que estiver indicada para fazer café. Quando for bater na sorveteira acrescente os 250 g do creme de leite restante, batido em chantili.
 * O *crème anglaise* tradicional leva baunilha. Para sorvetes de sabor forte como de chocolate ou café a baunilha me parece desparecer. Mas se quiser acrescente.

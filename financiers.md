@@ -1,7 +1,7 @@
 ## Financiers (Marcos Prado)
 ### Ingredientes
 ####Mistura de Amêndoas ou Pistache
-* 125 g de PISTACHES ou AMÊNOAS
+* 125 g de PISTACHES ou AMÊNDOAS
 * 125 g de AÇÚCAR DE CONFEITEIRO
 
 #####Massa
@@ -12,8 +12,8 @@
 
 ### Preparo
 1. Moer as amêndoas com o açúcar em processador até reduzir a uma farinha fina.
-2. Colocar a farinha de amêndoas, o açucar adicional e as claras em uma tigela refratária ou de metal.
-3. Manter a tigela em banho-maria enquanto mistura os ingredientes com um batedor de arames (não bata as claras como se fosse fazef em neve, apenas misture). 
+2. Colocar a farinha de amêndoas, o açúcar adicional e as claras em uma tigela refratária ou de metal.
+3. Manter a tigela em banho-maria enquanto mistura os ingredientes com um batedor de arames (não bata as claras como se fosse fazer em neve, apenas misture). 
 4. Mexa até a massa ligar. Ficará pegajosa, com consistência de merengue espesso.
 5. Retire a tigela do banho-maria, acrescente a manteiga derretida e a farinha, e envolvê-las cuidadosamente na mistura.
 6. Derrame a masa em forminhas para financiers de silicone, preenchendo ¾ de cada forminha.

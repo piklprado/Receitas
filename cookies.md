@@ -1,5 +1,7 @@
 ## Cookies perfeitos
 
+Para 20 cookies:
+
 ### Ingredientes
 * 225 g de manteiga
 * 1 cubo de gelo
@@ -8,6 +10,7 @@
 * 2 colheres de chá cheias de sal (10 g)
 * 140 g de açúcar branco
 * 2 ovos grandes (100 g)
+* 120 g de açúcar mascavo
 * 2 colheres de chá de essência de baunilha (10 ml)
 * 180 g de gotas de chocolate ou chocolate 70% picado
 
@@ -53,7 +56,7 @@
   disto, que encontrei no site *Serious
   Eats* [^1]. Lá está a explicação de cada passo da receita e também
   como variar para obter cookies com outras características. A minha
-  receita têm uma poucas modificações.
+  receita têm umas poucas modificações.
 * Para conseguir um cookie alto com interior macio é preciso que o
   exterior asse e forme uma casca rápido. Depois de experimentar
   bastante em forno elétrico cheguei ao tempo de 6 minutos a 175 C, com 

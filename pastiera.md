@@ -5,7 +5,7 @@
 #### Ingredientes
 * 400 gramas de farinha de trigo
 * 300 gramas de manteiga ou margarina
-* 150 gramas de açucar
+* 150 gramas de açúcar
 * 2 gemas
 * casca de meio limão siciliano ralada (só a parte amarela)
 
@@ -13,13 +13,13 @@
 1. Trabalhe a massa e deixe em repouso por pelo menos 2 horas na geladeira.
 2. Unte uma forma desmontável de alumínio de 25 cm de diametro e estenda a massa. Deve sobrar 10-15% da massa para guarnecer a torta.
 4. Asse em forno pré-aquecido a 180C, na grade de baixo, até começar a corar. Deixe esfriar.
-5. Pincele a base da massa com clara para impermebealizar.
+5. Pincele a base da massa com clara para impermeabilizar.
 
 ### Recheio
 
 #### Ingredientes
 * 200 gramas de trigo em grãos (um prato raso)
-* 150 gramas de açucar
+* 150 gramas de açúcar
 * 600 gramas de ricota fresca
 * 1 colher de sopa de essência de flor de laranjeira
 * 150 gramas de fruta cristalizada
@@ -41,7 +41,7 @@ alguns minutos. Escorra do leite e deixe esfriar.
 4. Junte a ricota passada pela peneira, acrescente o açúcar, a essência, as gemas e por fim as
 claras.
 5. Para finalizar, despeje sobre a massa assada e com a massa que sobrou faça tirinhas formando quadrados ou
-losangos na superficie.
+losangos na superfície.
 6. Asse na grade do meio a 200C por 35 a 40 minutos. O recheio deve ficar firme
 
 ### Macetes
