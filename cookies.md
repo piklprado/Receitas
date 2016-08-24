@@ -21,8 +21,7 @@ Para 20 cookies:
 2. Derreta  manteiga em uma panela e mantenha no fogo até que fique de
    cor castanha.
 3. Desligue o fogo, acrescente o cubo de gelo e deixe
-   derreter. Transfira a panela para uma bacia com água para esfriar
-   até 28-25 C. 
+   derreter. Deixe esfriar até que comece a ficar a opaca nas bordas da panela (28-25 C). 
 4. Coloque na tigela da batedeira os ovos, o açúcar branco e a
    baunilha. Bata até virar uma creme claro e espesso (ca. 5 min e
    velocidade alta). Acrescente a manteiga derretida e bata até que
@@ -30,7 +29,7 @@ Para 20 cookies:
    uniforme e aerado.
 5. Acrescente a mistura de ingredientes secos ao creme de manteiga e
    misture delicadamente com a colher. Misture apenas o suficiente
-   para incorporar. 
+   para incorporar. Deve ficar um pouco mais coeso que uma farofa.
 6. Cubra com filme plástico e leve à geladeira por no mínimo 8 h e
    máximo de três dias.
 7. Para assar, preaqueça o forno a 175 C. Para forno elétrico deixe
@@ -43,7 +42,7 @@ Para 20 cookies:
    distância equivalente ao seu diâmetro.
 10. Asse apenas o suficiente para corar e formar um crosta fina. 
 	Você vai ter que descobrir este ponto para seu forno, que deve estar
-    entre 6 e 12 minutos. Vire a forma na metade do tempo de assar.
+    entre 5 e 15 minutos. Vire a forma na metade do tempo de assar.
 11. Deixe esfriar na forma por 5 minutos e então transfira para uma
     grade e deixe descansar por 30 minutos. Guarde em recipiente hermético.
 
@@ -59,7 +58,7 @@ Para 20 cookies:
   receita têm umas poucas modificações.
 * Para conseguir um cookie alto com interior macio é preciso que o
   exterior asse e forme uma casca rápido. Depois de experimentar
-  bastante em forno elétrico cheguei ao tempo de 6 minutos a 175 C, com 
+  bastante com meu forno elétrico cheguei ao tempo de 6 minutos a 175 C, com 
   as duas resistências no máximo, e na grade do meio. A vantagem do
   forno elétrico é que a resistência superior acelera a formação da
   casca de cima.
