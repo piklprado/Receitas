@@ -24,6 +24,7 @@
   * [Gazpacho](gazpacho.md)
   * [Grão de bico indiano](grao_de_bico_com_coco.md)
   * [Molho de beringelas e linguiça](molho_linguica.md)
+  * [Pão dinamarquês](pao_dinamarques.md)
   * [Pão de queijo](Pao_de_queijo.md)
   * [Patê de cebolas caramelizadas](pate_cebola.md)
   * [Strogonácio](strogonacio.md)
