@@ -1,13 +1,13 @@
 ## Cookies perfeitos
 
-Para 20 cookies:
+Para 12 cookies:
 
 ### Ingredientes
 * 225 g de manteiga
 * 1 cubo de gelo
 * 280 g de farinha de trigo
 * 3/4 de colher de chá de bicarbonato de sódio (4 g)
-* 2 colheres de chá cheias de sal (10 g)
+* 12 pitadas de flor de sal.
 * 140 g de açúcar branco
 * 2 ovos grandes (100 g)
 * 120 g de açúcar mascavo
@@ -17,7 +17,7 @@ Para 20 cookies:
 
 ### Preparo
 
-1. Em uma tigela misture a farinha, o açúcar mascavo, o sal, o chocolate e o bicarbonato. Reserve.
+1. Em uma tigela misture a farinha, o açúcar mascavo, o chocolate e o bicarbonato. Reserve.
 2. Derreta  manteiga em uma panela e mantenha no fogo até que fique de
    cor castanha.
 3. Desligue o fogo, acrescente o cubo de gelo e deixe
@@ -38,12 +38,13 @@ Para 20 cookies:
    sorvete, tentando não amassar. Com a mão quebre a bola ao meio ou a
    esfarele e reconstitua deixando-a o menos compactada possível. Deve
    ficar com a superfície bem irregular (ver foto).
+9. Salpique cada bola com uma pitada da flor de sal.
 9. Coloque as bolas de massa em uma forma antiaderente, a uma
    distância equivalente ao seu diâmetro.
 10. Asse apenas o suficiente para corar e formar um crosta fina. 
 	Você vai ter que descobrir este ponto para seu forno, que deve estar
     entre 5 e 15 minutos. Vire a forma na metade do tempo de assar.
-11. Deixe esfriar na forma por 5 minutos e então transfira para uma
+11. Deixe esfriar na forma por 8 minutos e então transfira para uma
     grade e deixe descansar por 30 minutos. Guarde em recipiente hermético.
 
 
@@ -52,23 +53,27 @@ Para 20 cookies:
 * Meu ideal de perfeição para cookies é que seja alto, com
   superfície irregular e com interior macio, úmido e
   caramelado. Pesquisei até encontrar a receita que mais se aproximava
-  disto, que encontrei no site *Serious
+  disso, que encontrei no site *Serious
   Eats* [^1]. Lá está a explicação de cada passo da receita e também
   como variar para obter cookies com outras características. A minha
   receita têm umas poucas modificações.
 * Para conseguir um cookie alto com interior macio é preciso que o
   exterior asse e forme uma casca rápido. Depois de experimentar
-  bastante com meu forno elétrico cheguei ao tempo de 6 minutos a 175 C, com 
+  bastante com meu forno elétrico cheguei ao tempo de 5 minutos a 175 C, com 
   as duas resistências no máximo, e na grade do meio. A vantagem do
   forno elétrico é que a resistência superior acelera a formação da
   casca de cima.
+* A temperatura das bolinhas quando colocadas para assar também
+    interfere muito.  Enquanto assa mantenha o resto da massa na
+    geladeira. Em dias quentes faço as bolinhas e deixo todas no
+    freezer por uma hora.
 * Uma forma para cookies também ajuda a ter bons resultados. Ela é
   fina e aquece rápido. E em geral são antiaderentes. Ainda assim uso
   uma folha antiaderente reutilizável (compra-se em lojas de
   confeitaria).
-* O sal acentua o sabor do cookie. Para aumentar este efeito polvilhe
-  um pouco de sal moído fino (ou *Maldon salt*) sobre os cookies logo
-  que tirá-los do forno.
+* A flor de sal acentua o sabor do cookie, mas deve ser bem fina. Uso *Maldon salt*. 
+* Você pode congelar as bolinhas prontas para assar depois.
+
   
 ![](figs/cookies1.jpg "Forma para cookies com folha antiaderente")
 ![](figs/cookies2.jpg "Bolinhas de massa para assar")
