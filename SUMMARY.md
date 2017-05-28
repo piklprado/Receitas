@@ -10,6 +10,7 @@
   * [Bolo de sementes de papoula](bolo_papoula.md)
   * [Bolo versátil](bolo_versatil.md)
   * [Chocolate chips cookie](cookies.md)
+  * [Peanut butter cookie](peanut_cookies.md)
   * [Financiers](financiers.md)
   * [Pastiera di grano](pastiera.md)
   * [Petit gateau](petit_gateau.md)
