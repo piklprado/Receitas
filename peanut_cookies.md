@@ -19,7 +19,7 @@ Para 16 cookies grandes (12-14 cm diâmetro):
 
 ### Preparo
 
-1. Bata os acúcares, a manteiga e a manteiga de amendoim até clarear e ficar cremoso
+1. Bata os acúcares, a manteiga e a manteiga de amendoim até clarear e ficar cremoso.
 2. Continue batendo e adicione os ovos e a baunilha.
 3. Desligue a batedeira, adicione a farinha, o fermento e o amendoin e
    misture delicadamente, o suficiente para incorporar.
@@ -28,7 +28,7 @@ Para 16 cookies grandes (12-14 cm diâmetro):
 4. Com uma colher de sorvete, faça bolas com a massa de 5-6 cm de
    diâmetro e coloque em assadeira untada ou com revestimento
    anti-aderente, a uma
-   distância equivalente ao seu diâmetro.
+   distância equivalente ao seu diâmetro. Esfarele cada bola e resconstitua se amassar muito (ver dicas).
 5. Salpique cada bola com uma pitada da flor de sal.
 6. Asse apenas o suficiente para corar e formar um crosta fina. 
 	Você vai ter que descobrir este ponto para seu forno, que deve estar
@@ -40,8 +40,8 @@ Para 16 cookies grandes (12-14 cm diâmetro):
 ### Macetes
 
 * Você pode congelar as bolas de massa. Para assar ainda congelado você pode
-  precisar deixarem geral é preciso deixar as bolas de massa mais
-  baixas, ou o cookie ficará muito alto. Mas você para abaixar não
+  precisar é preciso deixar as bolas de massa mais
+  baixas, ou o cookie ficará muito alto. Mas para abaixar não
   amasse, ou o cookie pode ficar muito compacto. 
   Uma solução de fazer isso é quebrar 
   a bola ao meio ou
@@ -50,7 +50,7 @@ Para 16 cookies grandes (12-14 cm diâmetro):
 * Para conseguir um cookie alto com interior macio é preciso que o
   exterior asse e forme uma casca rápido. Depois de experimentar
   bastante com meu forno elétrico cheguei ao tempo de 5 minutos a 180 C, com 
-  as duas resistências no máximo, e na grade do meio. Se co
+  as duas resistências no máximo, e na grade do meio.
 * A temperatura das bolinhas quando colocadas para assar também
     interfere muito.
 * Uma forma para cookies também ajuda a ter bons resultados. Ela é
