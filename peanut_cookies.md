@@ -1,4 +1,4 @@
-## Cookies perfeitos
+## Cookies de manteiga de amendoim (Liz Nichols)
 
 Para 16 cookies grandes (12-14 cm diâmetro):
 
