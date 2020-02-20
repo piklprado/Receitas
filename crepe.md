@@ -21,7 +21,7 @@ Para dois crepes salgados e um doce
 #### Recheio doce
 
 * Duas bananas nanicas
-* Suco de um limão siciliano
+* Suco coado de um limão siciliano
 * Duas colheres de sopa de mel ou melado de cana
 
 ### Preparo
@@ -31,30 +31,32 @@ Para dois crepes salgados e um doce
 1. Bata todos os ingredientes no liquidificador
 2. Deixe descansar na geladeira por pelo menos uma hora (até 12 h).
 3. Aqueça uma frigideira grande (40 cm de diâmetro) antiaderente em fogo moderado.
-4. Coloque meia colher de chá de manteiga na frgideira, deixe derretar
-   e mexa a frigideira para espalhar uniformemente (pode usar um
+4. Coloque meia colher de chá de manteiga na frigideira, deixe derretar
+   e incline a frigideira para espalhar uniformemente (pode usar um
    pincel de cozinha para isso também).
 5. Adicione uma concha de massa ao centro da frigideira e rapidamente
-   incline a frigideira para espalhar a massa uniformemente. deixei em
+   incline a frigideira para espalhar a massa uniformemente. Deixe em
    fogo moderado até dourar em baixo (ca. 1 imin). Com uma espátula
-   solte o crepe a partir das beiradas e vier-o. Deixe fritar do outro
+   solte o crepe a partir das beiradas e vire-o. Deixe fritar do outro
    lado por mais
 
 #### Recheio salgado
 
-1. Lave bem a abobrinha e pique-a em cubinhos de 0,5 cm de aresta. Não
-   descasque. Misture uma colher de chá de sal e deixe em uma peneira
+1. Lave bem a abobrinha e pique-a em cubinhos de 0,5 cm de aresta, com
+   a casca. Misture uma colher de chá de sal e deixe em uma peneira
    para escorrer por no mínimo uma hora. Após este tempo esprema bem
    para tirar o excesso de água.
 2. Fatie o cogumelo e reserve
 3. Corte os tomates em quartos e reserve.
-4. Aqueça uma colher de sopa de azeite em uma frigideira e salteie rapidamente a abobrinha. Reserve.
+4. Aqueça uma colher de sopa de azeite em uma frigideira e salteie
+   a abobrinha, apenas o suficiente para que cozinhe mas continue crocante. Reserve.
 5. Aqueça uma colher de sopa de manteiga e salteie os cogumelos. Junte à abobrinha.
-6. Junte os tomates e o parmesão e misture bem. Verifique o sal e corrija se for o caso.
+6. Junte os tomates e o parmesão e misture bem. Verifique o sal e
+   corrija se for o caso.
 
 #### Recheio doce
 
-1. Misture o mel ou melado com o suco do limão e reserve
+1. Misture bem o mel ou melado com o suco do limão e reserve.
 2. Corte cada banana em 3 fatias longitudinais. Frite as fatias com
    uma colher de sopa de manteiga, em uma figideira pequena de fundo
    grosso.
@@ -74,7 +76,7 @@ Para dois crepes salgados e um doce
    
 ## Coda
 
-* Para quem quiser ser mais tradicional, o recheio salgado fica ótimo
+* Para os puristas, o recheio salgado fica ótimo
   também com a massa tradicional da gallete.
 * Desculpem os que acham uma heresia fazer crêpes com recheio
   salgado. Essa receita nasceu para uma refeição rápida com sobremesa,
