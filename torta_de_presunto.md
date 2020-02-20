@@ -1,4 +1,4 @@
-## Torta de presunto
+## Torta de presunto (ou de couve, ou de acelga ...)
 
 ### Ingredientes
 #### Massa
@@ -25,8 +25,18 @@
 9. Leve ao forno na grade mais baixa até que a superfície esteja corada.
 
 ### Macetes
+
 * Trabalhe a massa o mínimo possível para conseguir a liga.
 * A massa pode ser congelada. 
-* Use creme de leite Nestlé e presunto Sadia sem capa de gordura.
 * Cuidado com o sal, pois o presunto já tem bastante.
-* Para assar use a grade mais baixa para que a massa fique bem assada e crocante. Se parecer que vai queimar mude para a grade de cima.
+* Para assar use a grade mais baixa para que a massa fique bem assada
+  e crocante. Se parecer que vai queimar mude para a grade de cima.
+* O crene de leite fresco deixa a o recheio mais leve e fofo. O de
+  creme de leite em lata deixa o recheio mais compacto.
+
+### Variantes
+
+* Recheio de couve e bacon: refogue 8 folhas de couve picada fina em
+  250 g de bacon e uma cebola. Use essa mistura ao invés de recheio de
+  presunto. Para vegetarianos você pode tirar o bacon.
+* Acelga refogada também dá um ótimo recheio.
