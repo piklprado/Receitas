@@ -17,13 +17,15 @@ Para 12 cookies:
 
 ### Preparo
 
-1. Em uma tigela misture a farinha, o açúcar mascavo, o chocolate e o bicarbonato. Reserve.
+1. Em uma tigela misture a farinha, o açúcar mascavo, o chocolate e o
+   bicarbonato. Reserve.
 2. Derreta  manteiga em uma panela e mantenha no fogo até que fique de
    cor castanha.
-3. Desligue o fogo, acrescente o cubo de gelo e deixe
-   derreter. Deixe esfriar até que comece a ficar a opaca nas bordas da panela (28-25 C). 
+3. Desligue o fogo, e espere 5 min. Acrescente o cubo de gelo e deixe
+   derreter. Deixe esfriar até que comece a ficar a opaca nas bordas
+   da panela (28-25 C).
 4. Coloque na tigela da batedeira os ovos, o açúcar branco e a
-   baunilha. Bata até virar uma creme claro e espesso (ca. 5 min e
+   baunilha. Bata até virar uma creme claro e espesso (ca. 5 min em
    velocidade alta). Acrescente a manteiga derretida e bata até que
    esteja incorporada (cerca de mais 5 minutos). Deve ficar um creme
    uniforme e aerado.
@@ -34,16 +36,18 @@ Para 12 cookies:
    máximo de três dias.
 7. Para assar, preaqueça o forno a 175 C. Para forno elétrico deixe
    as resistências superior e inferior no máximo.
-8. Retire a massa da geladeira e faça uma bola de 5-6 cm de diâmetro com uma colher de
-   sorvete, tentando não amassar. Com a mão quebre a bola ao meio ou a
-   esfarele e reconstitua deixando-a o menos compactada possível. Deve
-   ficar com a superfície bem irregular (ver foto).
-9. Salpique cada bola com uma pitada da flor de sal.
+8. Retire a massa da geladeira e faça uma bola de 5-6 cm de diâmetro
+   com uma colher de sorvete, tentando não amassar. Com a mão quebre a
+   bola ao meio ou a esfarele e reconstitua deixando-a o menos
+   compactada possível. Deve ficar com a superfície bem irregular (ver
+   foto).
 9. Coloque as bolas de massa em uma forma antiaderente, a uma
    distância equivalente ao seu diâmetro.
-10. Asse apenas o suficiente para corar e formar um crosta fina. 
-	Você vai ter que descobrir este ponto para seu forno, que deve estar
-    entre 5 e 15 minutos. Vire a forma na metade do tempo de assar.
+10. Asse apenas o suficiente para corar e formar um crosta fina.  Você
+	vai ter que descobrir este ponto para seu forno, que deve estar
+	entre 5 e 15 minutos (veja dicas). Vire a forma na metade do tempo
+	de assar. Nesse momento salpique a flor de sal sobre cada
+	biscoito.
 11. Deixe esfriar na forma por 8 minutos e então transfira para uma
     grade e deixe descansar por 30 minutos. Guarde em recipiente hermético.
 
@@ -59,7 +63,7 @@ Para 12 cookies:
   receita têm umas poucas modificações.
 * Para conseguir um cookie alto com interior macio é preciso que o
   exterior asse e forme uma casca rápido. Depois de experimentar
-  bastante com meu forno elétrico cheguei ao tempo de 5 minutos a 175 C, com 
+  bastante com meu forno elétrico cheguei ao tempo de 7 minutos a 175 C, com 
   as duas resistências no máximo, e na grade do meio. A vantagem do
   forno elétrico é que a resistência superior acelera a formação da
   casca de cima.
