@@ -22,6 +22,7 @@
   * [Tortitas de aceite](tortitas.md)
   * [Waffles canadenses](waffles.md)
 * [Salgados](salgados.md)
+  * [Crepe de abobrinha e cogumelos](crepe.md)
   * [Gazpacho](gazpacho.md)
   * [Grão de bico indiano](grao_de_bico_com_coco.md)
   * [Lasanha à Bolonhesa](lasanha.md)
