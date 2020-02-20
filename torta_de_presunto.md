@@ -8,7 +8,7 @@
 * 1 colher de chá de sal
 
 #### Recheio
-* 2 latas de creme de leite com o soro
+* 2 latas de creme de leite com o soro OU 500 g de creme de leite fresco
 * 6 ovos
 * 450 g de presunto sem capa de gordura, cortado em cubinhos
 * 1 colher de chá de sal
