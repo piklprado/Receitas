@@ -12,11 +12,11 @@
 
 
 ### Preparo
-1. Misture o ingredientes líquidos em uma tigela e os secos em outra
+1. Misture o ingredientes líquidos em uma tigela e os secos em outra.
 2. Junte os dois e misture bem.
-3. Coloque em forma untada com furo no meio.
-4. Leve a forno pré-aquecido a 180 C
-5. Asse até que esteja corado
+3. Coloque com furo no meio, untada com mateiga e povilhada com farinha.
+4. Leve a forno pré-aquecido a 180&deg;C.
+5. Asse até que esteja corado.
 
 
 ### Macetes e variações
@@ -24,4 +24,5 @@
 * É um bolo simples que fica muito macio. É muito versátil também. Por exemplo:
   * Substitua ou misture às castanhas outras frutas secas ou maçãs picadas.
   * Não adicione o açúcar e use para fazer uma torta salgada. 
-* Em forno elétrico: grade de baixo, resistência de cima no mínimo e de baixo no médio. Assa em cerca de 20 min.
+* Em forno elétrico: grade de baixo, resistência de cima no mínimo e
+  de baixo no médio. Assa em cerca de 20 min.

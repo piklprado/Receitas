@@ -16,18 +16,22 @@
 ### Preparo
 
 1. Peneire juntos a farinha, o bicarbonato e o fermento.
-2. Adicione ao restante dos ingredientes exceto as passas e misture tudo muito bem com uma colher (não precisa de batedeira).
+2. Adicione ao restante dos ingredientes exceto as passas e misture
+   tudo muito bem com uma colher (não precisa de batedeira).
 3. Despeje a massa em assadeira **muito bem** untada.
 4. Lave as uvas passa e passe-as na farinha de trigo. Jogue por cima da massa.
-5. Asse o bolo em forno médio lentamente (cerca de 50 minutos no forno a gás).
+5. Asse o bolo em forno baixo (ca. 150&deg;C) lentamente (cerca de 50
+   minutos no forno a gás).
 
 ### Macetes
-* O bolo de mel gruda mesmo muito na assadeira, então unte generosamente.
-Para garantir use forma de Tefal untada e forrada
-forrada com papel manteiga, ou forma de silicone.
-* No forno elétrico: 150 C, baixo/médio por 20 min, desligado/médio por 20 min
+* O bolo de mel gruda mesmo muito na assadeira, então unte
+generosamente.  Para garantir use forma de Tefal untada e forrada
+forrada com papel manteiga, ou forma de silicone. 
+* No forno elétrico: 150&deg;C, reistências de superior no mínimo baixo e inferior no médio por 20 min,
+e então desligada/médio por mais 20 min.
 
 ### Variações
 * Adicione 50g de chocolate ou cacau em pó à farinha ao fazer a massa.
-* Ao invés de jogar as passas por cima da massa, deixe-as macerar em água ou conhaque por pelo menos uma hora.
-Seque-as, passe na farinha e adicione à massa.
+* Ao invés de jogar as passas por cima da massa, deixe-as macerar em
+água ou conhaque por pelo menos uma hora.  Seque-as, passe na farinha
+e adicione à massa.
