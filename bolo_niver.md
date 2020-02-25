@@ -15,7 +15,7 @@
 2. Acrescente o leite enquanto bate lentamente
 3. Acrescente aos poucos a farinha peneirada com o fermento
 4. Quando a massa estiver homogênea acrescente o óleo e a essência, e bata até incorporar
-5. Asse por 20 min em forno pré-aquecido a 150&degC (elétrico, posição 6 embaixo e mínimo em cima) ou 180&degC (a gás)
+5. Asse por 20 min em forno pré-aquecido a 150&deg;C (elétrico, posição 6 embaixo e mínimo em cima) ou 180&deg;C (a gás)
 
 ### Macetes e variações
 
