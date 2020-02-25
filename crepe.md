@@ -12,7 +12,7 @@ Para dois crepes salgados e um doce
 
 #### Recheio salgado
 
-* 1 abobrinha italiana
+* 1 abobrinha italiana grande
 * 300 g de cogumelo Shiitake
 * 140 g de tomatinhos grape
 * 50 g de parmesão de boa qualidade ralado
@@ -28,17 +28,17 @@ Para dois crepes salgados e um doce
 
 #### Massa
 
-1. Bata todos os ingredientes no liquidificador
-2. Deixe descansar na geladeira por pelo menos uma hora (até 12 h).
+1. Bata todos os ingredientes no liquidificador.
+2. Deixe descansar na geladeira por pelo menos uma hora (até 24 h).
 3. Aqueça uma frigideira grande (40 cm de diâmetro) antiaderente em fogo moderado.
 4. Coloque meia colher de chá de manteiga na frigideira, deixe derretar
    e incline a frigideira para espalhar uniformemente (pode usar um
    pincel de cozinha para isso também).
 5. Adicione uma concha de massa ao centro da frigideira e rapidamente
    incline a frigideira para espalhar a massa uniformemente. Deixe em
-   fogo moderado até dourar em baixo (ca. 1 imin). Com uma espátula
+   fogo moderado até dourar em baixo (ca. 1 min). Com uma espátula
    solte o crepe a partir das beiradas e vire-o. Deixe fritar do outro
-   lado por mais
+   lado por mais cerca de 1 minuto.
 
 #### Recheio salgado
 
@@ -57,7 +57,7 @@ Para dois crepes salgados e um doce
 #### Recheio doce
 
 1. Misture bem o mel ou melado com o suco do limão e reserve.
-2. Corte cada banana em 3 fatias longitudinais. Frite as fatias com
+2. Corte cada banana ao meio, longitudinalmente. Frite as fatias com
    uma colher de sopa de manteiga, em uma figideira pequena de fundo
    grosso.
 3. Quando as fatias de banana estiverem douradas, baixe o fogo e
@@ -76,14 +76,13 @@ Para dois crepes salgados e um doce
    
 ## Coda
 
-* Para os puristas, o recheio salgado fica ótimo
-  também com a massa tradicional da gallete.
 * Desculpem os que acham uma heresia fazer crêpes com recheio
   salgado. Essa receita nasceu para uma refeição rápida com sobremesa,
-  com um tipo de massa só. Achei que funcionou.
+  com um tipo de massa só. Achei que funcionou. Se quiser fazer a
+  massa de *gallete*, o recheio salgado fica ótimo tmabém.
 * A receita da massa dá para 4 discos de crepe. Ou seja, margem para
-  errar uma vez. E se não errar ter um crepe a mais para comer depois,
-  no café da manhã, por exemplo.
+  errar uma vez. Se não errar você terá um crepe a mais para comer
+  depois. Giarde em recipiente bem fechado.
    
    
 
