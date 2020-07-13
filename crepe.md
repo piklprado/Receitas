@@ -71,7 +71,7 @@ Para dois crepes salgados e um doce
    recheio no centro do disco e dobre as bordas para formar um
    quadrado com o meio com uma pequena abertura. Sirva imediatamente.
 2. **Doce:** Abra a massa da mesma maneira, coloque as bananas, polvilhe com canela e
-   feche o crepe em leque ou enrolado. Regue com a clada e decore com
+   feche o crepe em leque ou enrolado. Regue com a calda e decore com
    raspas de limão e canela. Sirva imediatamente
    
 ## Coda
@@ -79,10 +79,11 @@ Para dois crepes salgados e um doce
 * Desculpem os que acham uma heresia fazer crêpes com recheio
   salgado. Essa receita nasceu para uma refeição rápida com sobremesa,
   com um tipo de massa só. Achei que funcionou. Se quiser fazer a
-  massa de *gallete*, o recheio salgado fica ótimo tmabém.
+  massa de *gallete* para recheio salgado como manda a tradição fica
+  ótimo também.
 * A receita da massa dá para 4 discos de crepe. Ou seja, margem para
   errar uma vez. Se não errar você terá um crepe a mais para comer
-  depois. Giarde em recipiente bem fechado.
+  depois. Guarde em recipiente bem fechado.
    
    
 
