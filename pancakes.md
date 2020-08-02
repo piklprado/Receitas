@@ -35,8 +35,7 @@ Para 3 panquecas
 * Com listrinhas: use frigideira antiaderente com fundo chanfrado,
   ficam bonitinhas!
 * A mass pode ser guardada na geladeira por até 24 horas.
-* Receita do site
-  [Panelinha](https://www.panelinha.com.br/receita/panquecas-americanas-pancakes). Apenas
-  adaptei a quantidade e converti quantidades para gramas.
+* Receita do site [Panelinha](https://www.panelinha.com.br/receita/panquecas-americanas-pancakes). Apenas
+  adaptei as quantidade e as converti para gramas.
 
 
