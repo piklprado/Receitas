@@ -11,7 +11,7 @@ Em tempos de GitHub é aqui que vou colocar as receitas que peço e que me pedem
 
 ## Conteúdo
 
- * Navegue pelo  [Sumário](summary.md) deste repositório
+ * Navegue pelo  [sumário](SUMMARY.md) deste repositório
  * Versão em formato GitBook: https://piklprado.gitbook.io/receitas/
 
 
