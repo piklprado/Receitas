@@ -2,8 +2,8 @@
 
 ### Ingredientes
 
-* 250 ml (130 g) de farinha de trigo
-* 250 ml (130 g) de fubá de canjica
+* 250 ml (150 g) de farinha de trigo
+* 250 ml (150 g) de fubá de canjica
 * 250 ml (250 g) de água
 * 250 ml (250 g) de leite
 * 125 ml (110 g) de óleo
@@ -26,7 +26,7 @@
 
 ### Dicas 
 
-* Se tiver uma batedeira forte ajuda bastante usá-las para bater a
+* Se tiver uma batedeira forte ajuda bastante usá-la para bater a
   massa com os ovos.
 * Forno elétrico: 200°C por 18 minutos, resistência inferior média e
   resistência superior mínimo, na prateleira do meio.
