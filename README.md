@@ -1,4 +1,4 @@
-# O caderno Pi de receitas
+# O caderno PI de receitas
 
 > A los amigos que vacilan en entrar a la cocina donde se encuentra, grita Heráclito:
 > '¡Entrad, entrad! También aquí hay dioses.'
@@ -11,7 +11,7 @@ Em tempos de GitHub é aqui que vou colocar as receitas que peço e que me pedem
 
 ## Conteúdo
 
- * Navegue pelo  [sumário](SUMMARY.md) deste repositório
+ * Navegue pelo  [sumário](SUMMARY.md) do repositório GitHub
  * Versão em formato GitBook: https://piklprado.gitbook.io/receitas/
 
 

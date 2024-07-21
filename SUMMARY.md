@@ -32,6 +32,7 @@
   * [Lasanha à Bolonhesa](lasanha.md)
   * [Molho de beringelas e linguiça](molho_linguica.md)
   * [Pão dinamarquês](pao_dinamarques.md)
+  * [Pão de máquina](pao_maquina.md)
   * [Pão de queijo](Pao_de_queijo.md)
   * [Patê de cebolas caramelizadas](pate_cebola.md)
   * [Strogonácio](strogonacio.md)

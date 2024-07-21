@@ -31,7 +31,7 @@
 * Cuidado com o sal, pois o presunto já tem bastante.
 * Para assar use a grade mais baixa para que a massa fique bem assada
   e crocante. Se parecer que vai queimar mude para a grade de cima.
-* O crene de leite fresco deixa a o recheio mais leve e fofo. O de
+* O creme de leite fresco deixa a o recheio mais leve e fofo. O 
   creme de leite em lata deixa o recheio mais compacto.
 
 ### Variantes
