@@ -4,7 +4,7 @@
 
 #### Ingredientes
 
-|   |Pão 500g   |Pão 700g   | 
+|Ingrediente   |Pão 500g   |Pão 700g   | 
 |---|---|---|
 |Leite (ml)   |165   |200   | 
 |Acúcar (g)   |20   |30   | 

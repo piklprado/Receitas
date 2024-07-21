@@ -1,4 +1,4 @@
-## Biscoitinhos de castanha de caju (Johanna Prado)
+## Biscoitinhos de castanha de caju \(Johanna Prado\)
 
 ### Ingredientes
 
