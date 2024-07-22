@@ -1,8 +1,5 @@
 ## Biscoitinhos de castanha de caju 
 
-### Johanna Prado
-
----
 
 ### Ingredientes
 
@@ -34,3 +31,5 @@
 
 * Substitua as castanhas de caju por nozes, nozes-pecã ou castanha do Pará.
 * Adicione gotas ou pedaços de chocolate.
+
+> Receita de Johanna Knegt Prado
