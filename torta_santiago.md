@@ -1,4 +1,4 @@
-## Torta de Santiago (Marcos Prado)
+## Torta de Santiago 
 
 ### Ingredientes
 
@@ -38,3 +38,5 @@ leve à mesa.
 * Fica melhor se feita de véspera.
 * Dura duas semanas em recipiente hermético.
 * Pode ser congelada.
+
+> Receita de Marcos Prado

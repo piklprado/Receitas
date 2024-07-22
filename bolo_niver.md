@@ -1,4 +1,4 @@
-## Bolo de aniversário (Irmã Gislene)
+## Bolo de aniversário 
 
 ### Ingredientes
 
@@ -20,3 +20,5 @@
 ### Macetes e variações
 
 * É um bolo que fica muito maleável, fácil de cortar para rechear. 
+
+> Receita de Paulina (D. Gislene) 

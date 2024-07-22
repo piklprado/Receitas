@@ -44,5 +44,7 @@ que o testador saia limpo (ca. 30-40 min).
 
 * Forno elétrico: 180°C, parteleira do meio, resistência inferior no
   máximo e superior no mínimo.
-* Receita de Nigell, tradução de Maria Amélia Veras
+
+
+> Receita de Nigella, tradução de Maria Amélia Veras
 

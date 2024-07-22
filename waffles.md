@@ -1,4 +1,4 @@
-## Waffles canadenses (Heidi Dolder)
+## Waffles canadenses 
 
 ### Ingredientes
 * 600g (4 xícaras) de farinha de trigo
@@ -22,3 +22,5 @@
 * O tempo para assar depende do aparelho. No meu (figura) é de 6,5 min. Consulte o manual.
 
 ![](figs/waffleira.png)
+
+> Receita de Heidi Dolder

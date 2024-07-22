@@ -1,4 +1,4 @@
-## Molho de berinjela e linguiças (Tiago Prado)
+## Molho de berinjela e linguiças 
 
 Para 0,5 kg de macarrão
 
@@ -26,3 +26,6 @@ Para 0,5 kg de macarrão
 * Quanto mais lentamente cozinhar melhor fica.
 * Junto com o tomate acrescente 100 ml de vinho tinto.
 * O molho deve ficar grosso, mas fique de olho para que o líquido não evapore todo e o molho queime. 
+
+
+> Receita de Tiago Prado

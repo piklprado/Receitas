@@ -1,6 +1,6 @@
 ## Pães para fazer na máquina
 
-### Pão branco fofinho (Marcos Prado)
+### Pão branco fofinho
 
 #### Ingredientes
 
@@ -25,4 +25,4 @@
    homegênea. Colque em forma retangular para pão untada e deixe
    crescer até dobrar de tamanho. Asse em forno a 200 C.
    
-
+> Receita de Marcos Prado, adaptada de receita de pão de passas holandês (Kretenbrood)

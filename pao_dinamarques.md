@@ -1,7 +1,7 @@
 ## Pão dinamarquês (Rugbrød)
 
-
 ### Ingredientes
+
 #### Primeira fermentação
 * 375 g de farinha de centeio
 * 125 g de farinha de trigo
@@ -32,5 +32,7 @@
 9. Para servir corte fatias finas.
 
 ### Macetes e variações
-* Receita do canal Pão de Casa: https://www.youtube.com/watch?v=F3U6sdYoP5Y
 * O levain é o fermento natural preparado em casa. Há vários sites e livros que ensinam.
+
+
+> Receita do canal Pão de Casa: https://www.youtube.com/watch?v=F3U6sdYoP5Y

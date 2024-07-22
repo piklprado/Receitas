@@ -76,7 +76,7 @@ Para dois crepes salgados e um doce
    
 ## Coda
 
-* Desculpem os que acham uma heresia fazer crêpes com recheio
+* Me perdoem os que acham uma heresia fazer crêpes com recheio
   salgado. Essa receita nasceu para uma refeição rápida com sobremesa,
   com um tipo de massa só. Achei que funcionou. Se quiser fazer a
   massa de *gallete* para recheio salgado como manda a tradição fica

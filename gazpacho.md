@@ -36,4 +36,4 @@
    ao gazpacho: substitua uma parte dos tomates frescos por uma lata
    de tomates sem pele de boa qualidade.
 
-
+> Receita adaptada do Cordon Bleu

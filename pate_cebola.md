@@ -1,4 +1,4 @@
-## Patê de cebola do tio Tiago (Família Prado)
+## Patê de cebola do tio Tiago
 
 ###Ingredientes
 * 8 cebolas amarelas
@@ -33,3 +33,5 @@ pode-se dissolvê-lo com um pouco de água para adicionar à pasta.
 * O segredo é não deixar nenhum pedaço queimado, pois isso amarga o
   patê. Por isso é importante controlar bem a temperatura e virar bem
   as cebolas enquanto assam.
+
+> Receita de Tiago Prado

@@ -1,4 +1,4 @@
-## Tortilla (Paco Prado)
+## Tortilla 
 
 ### Ingredientes
 * 250 ml de ovos (5-6 ovos)
@@ -42,3 +42,5 @@ dos dois lados. Quando as batatas esfriarem mergulhe-as na tigela de ovos batido
 
 * Acrescente toucinho ou um bom salame espanhol, fritos juntos com a cebola.
 * Adicione salsa, cebolinha ou tomilho.
+
+> Receita de Don Paco Prado

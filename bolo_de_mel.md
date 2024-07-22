@@ -1,4 +1,4 @@
-## Bolo de mel Babe Tania \(Família Zaterka\)
+## Bolo de mel Babe Tania 
 
 ### Ingredientes
 * 2 ovos
@@ -35,3 +35,5 @@ e então desligada/médio por mais 20 min.
 * Ao invés de jogar as passas por cima da massa, deixe-as macerar em
 água ou conhaque por pelo menos uma hora.  Seque-as, passe na farinha
 e adicione à massa.
+
+> Receita da Família Zaterka

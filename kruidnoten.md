@@ -50,7 +50,6 @@ tanto quanto os temperos separados.
 
 * Forno elétrico: 175°C por 10-12 minutos, resistência inferior média e
   resistência superior mínimo, na prateleira do meio.
-* Adaptada do site [The Spruce eats](https://www.thespruceeats.com/traditional-kruidnoten-cookies-recipe-1128442).
 * A receita original usa *basterdsuiker*, tipo de açúcar feito na
   Holanda. O açúcar demerara é o melhor equivalente. Deixa a
   massa granulosa, mas ainda trabalhável.
@@ -69,4 +68,4 @@ tanto quanto os temperos separados.
   * Guarde em pote hermético, em local fresco.
    
 
-
+> Receita adaptada do site [The Spruce eats](https://www.thespruceeats.com/traditional-kruidnoten-cookies-recipe-1128442).

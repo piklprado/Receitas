@@ -1,4 +1,4 @@
-## Cookies de manteiga de amendoim (Liz Nichols)
+## Cookies de manteiga de amendoim 
 
 Para 16 cookies grandes (12-14 cm diâmetro):
 
@@ -60,4 +60,4 @@ Para 16 cookies grandes (12-14 cm diâmetro):
 * A flor de sal acentua o sabor do cookie, mas deve ser bem fina. Uso *Maldon salt*. 
 
 
-  
+> Receita de Liz Nichols

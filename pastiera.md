@@ -1,4 +1,4 @@
-## Pastiera di grano (Família Pardini)
+## Pastiera di grano 
 
 ### Pasta frolla
 
@@ -48,3 +48,5 @@ losangos na superfície.
 * O trigo endurece um pouco quando a torta assa. Por isso cozinhe-o até que esteja muito macio, praticamente desmanchando.
 * A receita original indicava para colocar o recheio sobre a massa crua e assar tudo junto. Adaptei pré-assando a massa antes e pincelando clara no fundo para evitar que a massa enxarque. Mas tome cuidado para que a massa não queime.
 * Se não encontrar frutas cristalizadas de qualidade pique damascos, ameixas pretas e junte a passas brancas. Se possível deixe marinando em rum ou uísque por um dia.
+
+> Receita da Família Pardini

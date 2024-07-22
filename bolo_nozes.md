@@ -1,4 +1,4 @@
-## Bolo rápido de nozes (Ritinha Novaes)
+## Bolo rápido de nozes 
 
 ### Ingredientes
 
@@ -31,3 +31,5 @@
 * Aumente a quantidade de nozes/castanhas para até 200 g.
 * Acrescente passas, mantidas em água ou água e rum por pelo menos uma
   hora. Polvilhe as passas com farinha antes de acrescentar à massa.
+
+> Receita de Ritinha Novaes

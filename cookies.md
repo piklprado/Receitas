@@ -54,13 +54,13 @@ Para 12 cookies:
 
 ### Macetes
 
-* Meu ideal de perfeição para cookies é que seja alto, com
-  superfície irregular e com interior macio, úmido e
-  caramelado. Pesquisei até encontrar a receita que mais se aproximava
-  disso, que encontrei no site *Serious
-  Eats* [^1]. Lá está a explicação de cada passo da receita e também
-  como variar para obter cookies com outras características. A minha
-  receita têm umas poucas modificações.
+* Meu ideal de perfeição para cookies é que seja alto, com superfície
+  irregular e com interior macio, úmido e caramelado. Pesquisei até
+  encontrar a receita que mais se aproximava disso, que encontrei no
+  site [http://www.seriouseats.com](Serious Eats). Lá está a
+  explicação de cada passo da receita e também como variar para obter
+  cookies com outras características. A minha receita têm umas poucas
+  modificações.
 * Para conseguir um cookie alto com interior macio é preciso que o
   exterior asse e forme uma casca rápido. Depois de experimentar
   bastante com meu forno elétrico cheguei ao tempo de 7 minutos a 175 C, com 
@@ -83,4 +83,4 @@ Para 12 cookies:
 ![](figs/cookies4.jpg "Bolinhas de massa para assar")
 ![](figs/cookies3.jpg "Assados descansando na grade")
   
-[^1]: The Best Chocolate Chip Cookies Recipe. The Food Lab - Unraveling the mysteries of home cooking through science. By J. Kenji López-Alt http://www.seriouseats.com/recipes/2013/12/the-food-lab-best-chocolate-chip-cookie-recipe.html
+> Receita adaptada de: The Best Chocolate Chip Cookies Recipe. The Food Lab - Unraveling the mysteries of home cooking through science. By J. Kenji López-Alt http://www.seriouseats.com/recipes/2013/12/the-food-lab-best-chocolate-chip-cookie-recipe.html

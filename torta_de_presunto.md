@@ -40,3 +40,5 @@
   250 g de bacon e uma cebola. Use essa mistura ao invés de recheio de
   presunto. Para vegetarianos você pode tirar o bacon.
 * Acelga refogada também dá um ótimo recheio.
+
+> Receita de Johanna Knegt Prado

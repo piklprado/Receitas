@@ -1,4 +1,4 @@
-## Bolo versátil (Sara Mortara)
+## Bolo versátil 
 
 ### Ingredientes
 
@@ -26,3 +26,5 @@
   * Não adicione o açúcar e use para fazer uma torta salgada. 
 * Em forno elétrico: grade de baixo, resistência de cima no mínimo e
   de baixo no médio. Assa em cerca de 20 min.
+
+> Receita de Sara Mortara

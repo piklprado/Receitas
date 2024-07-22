@@ -1,4 +1,4 @@
-## Lasanha à bolonhesa (Marcos Prado)
+## Lasanha à bolonhesa 
 
 Para uma forma de 39 x 27 x 6 cm (serve 8 pessoas):
 
@@ -88,3 +88,5 @@ Para uma forma de 39 x 27 x 6 cm (serve 8 pessoas):
    * Preparar e abrir a massa de véspera, deixando-a secar em
      temperatura ambiente. Neste caso deixe-a cozinhar por mais tempo
      (5 a 8 min, dependendo do quanto a massa secou).
+
+> Receita de Marcos Prado

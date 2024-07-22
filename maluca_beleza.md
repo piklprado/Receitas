@@ -1,6 +1,7 @@
 ## Bolo maluca beleza
 
-###Ingredientes
+### Ingredientes
+
 * 150 g de açúcar mascavo
 * 200 g de açúcar refinado
 * 200 g de farinha de trigo

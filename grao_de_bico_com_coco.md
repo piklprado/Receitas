@@ -1,4 +1,4 @@
-## Grão de bico com tomate e leite de coco (Tiago Prado)
+## Grão de bico com tomate e leite de coco
 
 ### Ingredientes
 * 250 g de grão-de-bico seco
@@ -6,9 +6,9 @@
 * 4 dentes de alho
 * 1 cebola, moída
 * 1 lata de tomate (240g drenado / 400g com suco)
-* 1 colheres de CHÁ de cúrcuma (açafrão da terra / açafrão da índia)
-* 2 colheres de CHÁ de curry (ou qualquer tempero indiano que quiser)
-* 0,5 colher de CHÁ de gengibre em pó
+* 1 colheres de chá de cúrcuma (açafrão da terra / açafrão da índia)
+* 2 colheres de chá de curry (ou qualquer tempero indiano que quiser)
+* 0,5 colher de chá de gengibre em pó
 * 1 pitada bem pequena de cravo (opcional; é para combinar com o gosto adocicado do leite de coco)
 * 3 folhas de louro
 * Sal
@@ -33,3 +33,5 @@ menos salgado que o desejado, pois vai evaporar depois.
 depois abaixe o fogo, deixando cozinhar por 20 a 30 minutos. A ideia é deixar um caldo
 denso o suficiente para não escorrer, mas ainda a ponto de poder ser absorvido por
 arroz. Se passar do ponto, é só colocar um pouco de água.
+
+> Receita de Tiago Prado

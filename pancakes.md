@@ -2,7 +2,7 @@
 
 ### Ingredientes
 
-Para 3 panquecas
+Para 4 panquecas pequenas (12 cm diâmetro)
 
 * 115 g de farinha de trigo
 * 25 g de açúcar
@@ -32,10 +32,12 @@ Para 3 panquecas
 * Sirva com manteiga, mel, geléias ou [pera cozida no microondas com mel e canela](https://www.panelinha.com.br/receita/pera-cozida-mel-canela)
 * Com queijo: adicione à massa 100 g de muçarela ou queijo prato
   ralados. Ou 50 g de queijo parmesão ralado.
+* Com banana: adicione à massa duas bananas pequenas cortadas em fatias finas.
+* Integral: substitua metade da farinha por farinah integral
 * Com listrinhas: use frigideira antiaderente com fundo chanfrado,
   ficam bonitinhas!
-* A mass pode ser guardada na geladeira por até 24 horas.
-* Receita do site [Panelinha](https://www.panelinha.com.br/receita/panquecas-americanas-pancakes). Apenas
-  adaptei as quantidade e as converti para gramas.
+* A massa pode ser guardada na geladeira por até 24 horas, mas vai crescer menos.
+
+> Receita adaptada do site [Panelinha](https://www.panelinha.com.br/receita/panquecas-americanas-pancakes). 
 
 

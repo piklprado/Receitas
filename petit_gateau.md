@@ -1,4 +1,4 @@
-## Petit gateau de chocolate (Restaurante Vecchio Sogno, BH)
+## Petit gateau de chocolate 
 
 Para 12 bolinhos:
 
@@ -30,3 +30,5 @@ Para 12 bolinhos:
 
 ### Variações
 * Sabor café: ao derreter o chocolate com a manteiga e o rum acrescente 50 ml de café expresso ou um café coado forte.
+
+> Receita do Restaurante Vecchio Sogno, Belo Horizonte, MG

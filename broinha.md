@@ -1,4 +1,4 @@
-## Broinhas de fubá (Tia Léa Vitor)
+## Broinhas de fubá 
 
 ### Ingredientes
 
@@ -35,5 +35,5 @@
 * Utilizar colher para cookies e colocar 24 unidades em um tabuleiro
   de 26 x 39cm.
    
-
+> Receita de minha tia Léa Victor
 

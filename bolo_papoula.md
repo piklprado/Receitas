@@ -1,4 +1,4 @@
-## Bolo de sementes de papoula (Cristiana Bignami)
+## Bolo de sementes de papoula 
 
 ### Ingredientes
 * 50 g de sementes de papoula
@@ -19,3 +19,5 @@
    polvilhada com farinha. Asse em forno pré-aquecido a 180&dreg;C até
    corar.
 5. Aguarde 5 minutos, desenforme e polvilhe sementes de papoula para enfeitar.
+
+> Receita de Cristiana Bignami

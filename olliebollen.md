@@ -1,6 +1,7 @@
 ## Oliebollen (sonhos Holandeses de Ano Novo)
 
 ### Ingredientes
+
 * 250 ml de leite morno (ca.)
 * 15 g de fermento biológico fresco
 * 250 g de farinha de trigo
@@ -14,6 +15,7 @@
 * Açúcar de confeiteiro para polvilhar
 
 ### Preparo
+
 1. Deixe as passas de molho em água por uma hora. Peneire e seque-as.
 3. Coloque fermento em 50ml do leite morno. Após 5 minutos adicione o resto do leite.
 4. Adicione a farinha e o sal e misture até formar uma massa homogênea.
@@ -30,6 +32,7 @@ até que fique marrom claro. Coloque em papel absorvente para escorrer o excesso
 Mas mergulhe-a na água antes de pegar a massa de cada bolinho
 * Substitua as passas por uvas frescas sem sementes partidas pela metade.
 * A tradição é servir este bolinho na noite de ano novo.
-* Receita do livro *Eenvoudige Recepten* (Receitas simples) de Martine Wittop Koning (1940). 
-Há muitas variantes, algumas com ovo, outras com mais frutas (https://www.youtube.com/watch?v=7__Vbb0aX98).
+* Há muitas variantes, algumas com ovo, outras com mais frutas (https://www.youtube.com/watch?v=7__Vbb0aX98).
 A maioria não tem as cascas de laranja e o limão.
+
+> Receita do livro *Eenvoudige Recepten* (Receitas simples) de Martine Wittop Koning (1940). 

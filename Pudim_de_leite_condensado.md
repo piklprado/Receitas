@@ -1,23 +1,23 @@
-##Pudim de leite condensado (Johanna Prado)
+## Pudim de leite condensado 
 
-###Ingredientes
+### Ingredientes
 
-####Pudim
+#### Pudim
 
 *   2 ovos
 *   6 gemas
 *   1 lata de leite condensado (395 g)
 *   1,5 lata de leite integral (380 g)
 
-####Calda
+#### Calda
 
 *   4 xícaras de açúcar cristal
 *   2 xícaras de água
 *   1 colher de sopa de vinagre
 
-###Preparo
+### Preparo
 
-####Calda**
+#### Calda**
 
 1.  Aqueça o açúcar em panela grande e mexa enquanto derrete. Continue
     mexendo até que fique cor de caramelo claro.
@@ -28,7 +28,7 @@
     descer em fio ao invés de parecer um líquido fluido estará no ponto.
 4.  Espere esfriar para usar.
 
-####Pudim
+#### Pudim
 
 1.  Passe calda por todo o interior de uma forma de pudim.
 2.  Bata o leite condensado, o leite, os ovos e as gemas no liquidificador.
@@ -46,7 +46,7 @@
 
 ![](figs/naforma.png "Colocando a mistura na forma") ![](figs/cozinhando.png "Cozinhando na forma")
 
-###Macetes
+### Macetes
 
 *   A receita de calda é suficiente para vários pudins. Você pode
     fazê-la com antecedência e guardar em um vidro na geladeira.
@@ -60,4 +60,4 @@
     não desmonte, mas também não pode cozinhar demais ou
     fica borrachento. Com alguma experimentação você vai acertar.
 
-
+> Receita de Johanna Knegt Prado

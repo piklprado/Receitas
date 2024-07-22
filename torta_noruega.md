@@ -1,4 +1,4 @@
-## Torta Noruega de Manzana (Magdalena Rossi)
+## Torta Noruega de Manzana 
 
 ### Ingredientes
 * 300 g de farinha de trigo
@@ -16,3 +16,4 @@
 3. Untar uma forma colocar aprox. a metade da massa no fundo e borda apertando com os dedos. Colocar as maçãs, e cobrir com o resto da mistura (fica como um granulado).
 4. Cozinhar no forno moderado por aprox. 20-30 minutos (até ficar dourada).
 
+> Receita de Magdalena Rossi
