@@ -6,7 +6,7 @@ Para 6 pessoas:
 
 * 1 kg de filé mignon
 * 2 cebolas
-* 400 g de cogumelos Paris frescos
+* 200 g de cogumelos Paris frescos
 * 300 g de creme de leite fresco
 * 150 g de farinha (5 colheres de sopa)
 * Um maço de salsinha (opcional)
@@ -17,30 +17,33 @@ Para 6 pessoas:
    recipiente fechado envolto nas duas cebolas picadas em rodelas.
 2. No dia do preparo descarte as cebolas e pique o filé em cubos de
    cerca de 2,5 cm de largura. Reserve.
-3. Lave bem os cogumelos. Corte os grandes na metade e deixe os
+3. Limpe bem os cogumelos. Corte os grandes na metade e deixe os
    pequenos inteiros.
 4. Aqueça uma panela ou frigideira grande de fundo grosso, de
    preferência com revestimento antiaderente. Espere até que fique bem
    quente.
 5. Divida os cubos de carne em 5 porções iguais. Salgue a primeira
-   parte, coloque em uma tigela ou vasilha com tampa. Adicone uma
-   colherd e sopa de farinha, tampe a vasilha e chacoalhe com força a
+   parte, coloque em uma tigela ou vasilha com tampa. Adicione uma
+   colher de sopa de farinha, tampe a vasilha e chacoalhe com força a
    vasilha, para envolver todos os pedaços de carne na farinha. A
    carne deve ficar apenas polvilhada, seca, mas sem excesso de
    farinha
-6. Coloque meia colher de azeite na panela e salteie a
-   carne. Reserve. Salteie as outras quatro porções de carne da mesma
+6. Coloque meia colher de azeite na panela e salteie a carne, até
+   dourar (cerca de 2-3 min). Deve ficar ao ponto, não frite
+   demais. Reserve. Salteie as outras quatro porções de carne da mesma
    maneira. Se uma casca de farinha se formar na panela raspe-a, ou
    queimará.
-7. Quando terminar de fritar a carne, adicione duas colheres de
+7. Quando terminar de fritar a carne, adicione duas colheres de sopa
    manteiga à panela aquecida. Espere derreter e chiar e acrescente os
    cogumelos. Salteie até que comecem a soltar líquido. Adicione sal e
    salteie por mais dois minutos. Não se preocupe se acumular líquido.
 8. Com a panela ao fogo junte a carne frita aos cogumelos e misture
-   bem. Adicione o creme de leite, misture e deixe ao fogo até que a
-   carne esteja cozida e o caldo engrosse um pouco.
-9. Acerte a quantidade de creme, verifique o sal, salpique a salsinha
-    e sirva com arroz branco e batatas fritas.
+   bem. Adicione o creme de leite, misture e deixe ao fogo até que o
+   caldo engrosse um pouco. Tampe a panela e deixe descansar por pelo
+   menos 15 minutos. Pode ficar por mais tempo, se quiser preparar com antecedência.
+9. Quando for servir reaqueça. Se o caldo estiver muito grosso,
+    acrescente mais creme ou um pouco de leite, verifique o sal,
+    salpique a salsinha e sirva com arroz branco e batatas fritas.
 
 ### Macetes
 
@@ -51,3 +54,5 @@ Para 6 pessoas:
   soltar líquido demais é sinal de que sua panela não está quente o
   suficiente ou que a panela é pequena. Aqueça mais e reduza a
   quantidade de carne a saltear por vez (ou use uma panela maior).
+
+> Strogonácio é o estrogonofe do Paulo Inácio, um clássico dos domingos
