@@ -16,13 +16,13 @@
 
 #### Preparo
 
-1. Na máquina: coloque todos a manteiga, leite, ovo, sal, açúcar na
-   cuba da máquina de pão e misture. Despeje a farinha sobre a mistura
-   e por fim coloque o fermento. Programe a máqui para "pão caseiro"
-   ou para o pão branco padrão da máquina. Se não crescer muito, tente
-   o program para pão integral.
+1. Na máquina: coloque a manteiga, leite, ovo, sal, açúcar na cuba da
+   máquina de pão e misture. Despeje a farinha sobre a mistura sem
+   misturar e por fim coloque o fermento. Programe a máquina para "pão
+   caseiro" ou para o pão branco padrão da máquina. Se não crescer
+   muito, tente o program para pão integral.
 2. No forno: misture todos os ingredientes e sove até a massa ficar
-   homegênea. Colque em forma retangular para pão untada e deixe
+   homogênea. Colque em forma retangular para pão untada e deixe
    crescer até dobrar de tamanho. Asse em forno a 200 C.
    
 > Receita de Marcos Prado, adaptada de receita de pão de passas holandês (Kretenbrood)
