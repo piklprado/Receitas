@@ -20,6 +20,7 @@
    cozinhe até não ter água de cogumelo.
 3. Acrescente o creme de leite e deixe cozinhar um pouco, para encorpar.
 4. Adicione o macarrão cozido um pouco abaixo de al dente. Misture tudo.
+5. Se o molho estiver muito grosso, acrescente um pouco da água do cozimento.
 
 
 ### Macetes e variações
@@ -27,5 +28,7 @@
 * A linguiça deve ser a artesanal, se possível de pura de lombo. 
 * Você pode substituir a linguiça por 500g de bacon de pernil, ou 300
   g de panceta ou guanciale
+* Para usar a água do cozimento, cozinhe o macarrão em pouca água (2,5
+  a 3 vezes o peso em água do peso do macarrão).
 
 > Receita de Mateus Pimenta Prado
