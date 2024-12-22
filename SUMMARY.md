@@ -29,6 +29,7 @@
 * [Salgados](salgados.md)
   * [Antepasto de tomatinhos](tomatins.md)
   * [Crepe de abobrinha e cogumelos](crepe.md)
+  * [Fetuccine com cogumelos](massa_cogumelo.md)
   * [Gazpacho](gazpacho.md)
   * [Grão de bico indiano](grao_de_bico_com_coco.md)
   * [Lasanha à Bolonhesa](lasanha.md)
