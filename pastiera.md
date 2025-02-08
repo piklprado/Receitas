@@ -38,11 +38,12 @@
 A água vai sendo evaporada e absorvida pelo trigo, portanto acrescente água quente quanto precisar.
 3. Em seguida, escorra bem a água e cozinhe o trigo numa panela em fogo baixo com o leite já quente por
 alguns minutos. Escorra do leite e deixe esfriar.
-4. Junte a ricota passada pela peneira, acrescente o açúcar, a essência, as gemas e por fim as
-claras.
-5. Para finalizar, despeje sobre a massa assada e com a massa que sobrou faça tirinhas formando quadrados ou
-losangos na superfície.
-6. Asse na grade do meio a 200C por 35 a 40 minutos. O recheio deve ficar firme
+4. Junte a ricota passada pela peneira, acrescente o açúcar, a
+essência, as frutas cristalizadas, as gemas e por fim as claras.
+5. Para finalizar, despeje a mistura de ricota sobre a massa assada e
+com a massa que sobrou faça tirinhas formando quadrados ou losangos na
+superfície.
+6. Asse na grade do meio a 180C por 35 a 40 minutos. O recheio deve ficar firme.
 
 ### Macetes
 * O trigo endurece um pouco quando a torta assa. Por isso cozinhe-o até que esteja muito macio, praticamente desmanchando.
