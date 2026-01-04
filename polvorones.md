@@ -1,6 +1,5 @@
 ## Polvorones
 
-
 ### Ingredientes
 
 * 230 g de azeite de oliva
@@ -48,5 +47,5 @@ reduzindo a farinha para 450g
 
 > Receita de Eulalia Quintana Moscoso, adaptada por seu neto António López de Prado e seu bisneto Paulo Inácio Prado.
 
-![](figs/polpolvorones_antes_de_assar.jpeg "na forma, antes de assar")
-![](figs/polpolvorones_prontos.jpeg "saídos do forno e polvilhados")	
+![](figs/polvorones_antes_de_assar.jpeg "na forma, antes de assar")
+![](figs/polvorones_prontos.jpeg "saídos do forno e polvilhados")	
