@@ -6,7 +6,6 @@
 
 ![](figs/pie.png)
 
-
 Em tempos de GitHub é aqui que vou colocar as receitas que peço e que me pedem.
 
 ## Conteúdo

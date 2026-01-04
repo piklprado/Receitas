@@ -25,7 +25,7 @@
 * Em forno elétrico de convecção: 175&deg;C, 13 min
 
 ### Variantes
-É um biscoito verśatil, que aceita vários sabores:
+É um biscoito versátil, que aceita vários sabores:
 * Limão: acrescente casca ralada de um limão siciliano ao açúcar e misture bem antes de bater com os ovos
 * Amêndoas: acrescente 150 g de amêndoas descascadas, torradas e moídas junto com a farinha. Para acentuar o sabor, acrescente 1,5 colher de chá de essência natural de amêndoas.
 * Choco chips: acrescente 100-150 g de gotas de chocolate
