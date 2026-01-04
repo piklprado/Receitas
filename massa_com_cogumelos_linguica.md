@@ -16,10 +16,10 @@ Para 0,5 kg de massa seca:
 
 ### Preparo
 
-1. Retire o recheio da linguiça e descarte a pele que a reveste. 
+1. Retire o recheio da linguiça e descarte a tripa que a reveste. 
 2. Corte o guanciale e o bacon cubinhos.
 3. Numa panela grande o suficiente para caber o macarrão, frite o
-   guanciale. Quando começar a ficar corcante e tiver soltado a maior
+   guanciale. Quando começar a ficar crocante e tiver soltado a maior
    parte da gordura, acrescente o bacon e a linguiça e frite até
    dourar.
 2. Acrescente a cebola e refogue até ficar transparente.
