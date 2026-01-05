@@ -17,25 +17,25 @@ Para 0,5 kg de massa seca:
 ### Preparo
 
 1. Retire o recheio da linguiça e descarte a tripa que a reveste. 
-2. Corte o guanciale e o bacon cubinhos.
+2. Corte o guanciale e o bacon em cubinhos.
 3. Numa panela grande o suficiente para caber o macarrão, frite o
    guanciale. Quando começar a ficar crocante e tiver soltado a maior
    parte da gordura, acrescente o bacon e a linguiça e frite até
    dourar.
 2. Acrescente a cebola e refogue até ficar transparente.
-3. Acrescente o alho e refoque até comçar a dourar.
+3. Acrescente o alho e refoque até começar a dourar.
 4. Acrescente os cogumelos fatiados e tempere com sal e
-   pimenta. Cozinhe até que toda o líquido eliminado pelos cogumelos
+   pimenta. Cozinhe até que todo o líquido eliminado pelos cogumelos
    seque.
 5. Acrescente o creme de leite e deixe cozinhar um pouco, até o molho
-   espessar. Acrescente um pouco da água do cozimento do macarrão para
+   espessar. Pode acrescentar um pouco da água do cozimento do macarrão para
    espessar.
 6. Cozinhe o macarrão um pouco menos do que o ponto desejado. Escorra e
    junte ao molho quente e misture bem. Sirva imediatamente.
 
 ### Macetes e variações
 
-* Qual massa usar? a de sua preferência. A receita original indicava
+* Qual massa usar? A de sua preferência. A receita original indicava
   fetuccine, mas fica ótimo também com massas curtas como casarese,
   penne, fusili.
 * A receita original utilizava apenas linguiça (500g), refogada em azeite.
