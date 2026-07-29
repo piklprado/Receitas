@@ -5,7 +5,7 @@
 * 750 g de batatas (ca. 5 batatas médias)
 * Cerca de 500 ml de azeite
 * Um quarto de cebola média
-* Sal a gosto
+* 6 a 7,5 g de sal para as batatas, mais uma pitada para os ovos
 
 ### Preparo
 
@@ -19,9 +19,9 @@
    e acrescente todas as batatas. Misture de tempos em tempos para um
    cozimento uniforme no azeite.
 5. Quando as batatas começarem a corar retire-as com uma escumadeira e
-   coloque em uma tigela grande. Polivilhe sal e vire-as para salgar
+   coloque em uma tigela grande. Polivilhe o sal e vire-as para salgar
    uniformemente.
-6. Quando as batatas esfriarem mergulhe-as na tigela de ovos batidos e
+6. Quando as batatas esfriarem,  mergulhe-as na tigela de ovos batidos e
    misture bem. Deixei por no mínimo meia hora, misturando bem a cada
    15 min. Não se preocupe se algumas batatas quebrarem.
 6. Reserve o azeite usado nas frituras para fritar as tortilhas.
@@ -60,6 +60,11 @@
 
 ### Variantes
 
+* Frite todas as batatas de uma vez em uma panela funda, com 500 ml de
+  azeite, em fogo moderado. Vão ficar mais úmidas e com sabor mais
+  acentuado de azeite.
+* Para uma tortilla com interior "jugoso", despeje toda a mistura de uma vez na
+  frigideira. Vire com axílio de uma tampa, e deixe no fogo por menos tempo.
 * Acrescente toucinho ou um bom salame espanhol, fritos juntos com a cebola.
 * Adicione salsa, cebolinha ou tomilho.
 

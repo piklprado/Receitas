@@ -1,7 +1,7 @@
 ## Patê de cebola do tio Tiago
 
 ###Ingredientes
-* 8 cebolas amarelas
+* 8 cebolas amarelas (1 Kg)
 * 70g castanha de caju
 * 3-4 cm de gengibre fresco
 * Pimenta calabresa
@@ -27,11 +27,17 @@ cebolas fiquem bem moles e castanhas.
 processador. Se ficou algum caramelado (mas não queimado!) na forma,
 pode-se dissolvê-lo com um pouco de água para adicionar à pasta.
 6. Corrigir o sal, pimenta calabresa e pimenta caiena aos poucos.
-7. Servir com pazinhas ou palitos de cenoura e cebolinha picada.
+7. Servir com pazinhas ou palitos de cenoura e pepinho, decorado com cebolinha picada.
 
 ### Macetes
 * O segredo é não deixar nenhum pedaço queimado, pois isso amarga o
   patê. Por isso é importante controlar bem a temperatura e virar bem
   as cebolas enquanto assam.
+* Na panela de pressão elétrica: Na etapa 3 coloque os ingredientes na
+  panela de pressão elétrica. Cozinhe em pressão alta por 40
+  minutos. Coe o caldo e reserve as cebolas. Devolva o caldo para a
+  penla e reduza usando a função refogar, até ficar espesso e
+  caramelizado. Junte o reduzido às cebolas e siga o restante da
+  receita.
 
 > Receita de Tiago Prado
