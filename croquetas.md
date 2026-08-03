@@ -41,7 +41,7 @@ Para cerca de 40 croquetes
 
 * A massa ou os croquetes (empanados ou não) podem ser congelados.
 * fica mais fácil enrolar e empanar usando luvas de vinil descartáveis.
-* Você terá que encontrar o tempo ideal, de acordo com as condições de
+* Você terá que encontrar seu tempo de fritura ideal, de acordo com as condições de
   seus equipamentos, e também de seu gosto por croquetes mais claros
   ou mais escuros. Mas cuidado porque os croquetes estouram e vazam o
   interior se fritos por muito tempo. Uma maneira de calibrar é
