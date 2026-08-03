@@ -36,7 +36,7 @@ pode-se dissolvê-lo com um pouco de água para adicionar à pasta.
 * Na panela de pressão elétrica: Na etapa 3 coloque os ingredientes na
   panela de pressão elétrica. Cozinhe em pressão alta por 40
   minutos. Coe o caldo e reserve as cebolas. Devolva o caldo para a
-  penla e reduza usando a função refogar, até ficar espesso e
+  panela e reduza usando a função refogar, até ficar espesso e
   caramelizado. Junte o reduzido às cebolas e siga o restante da
   receita.
 
